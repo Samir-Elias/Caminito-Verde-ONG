@@ -139,21 +139,22 @@ body {
     margin-bottom: 20px;
   }
 }
+@media (max-width: 768px) {
+  main {
+    flex-direction: column;
+  }
+
+ .logo-container {
+    margin-bottom: 20px;
+  }
+}
 @media (max-width: 767.98px) {
 
   .description-container {
     order: 1;
     flex-wrap: wrap;
   }
-  @media (max-width: 768px) {
-    main {
-      flex-direction: column;
-    }
   
-   .logo-container {
-      margin-bottom: 20px;
-    }
-  }
   .logo {
     margin-left: 0;
     width: 300px;
