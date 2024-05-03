@@ -133,7 +133,7 @@ body {
 @media (max-width: 768px) {
   main {
     flex-direction: column;
-    margin-left: 15%;
+    
   }
 
  .logo-container {
@@ -144,7 +144,7 @@ body {
   main {
     flex-direction: column;
     flex-wrap: wrap;
-   
+    margin-left: 15%;   
   }
 
  .logo-container {
