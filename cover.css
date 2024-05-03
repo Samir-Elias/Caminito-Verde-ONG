@@ -152,10 +152,6 @@ body {
 }
 @media (max-width: 767.98px) {
 
-  .description-container {
-    
-    
-  }
   
   .logo {
     margin-left: 0;
@@ -171,12 +167,6 @@ body {
 
 }
 
-.logo-container {
-  flex: 0 0 30%;
-  /*... */
-}
 
-.description-container {
-  flex: 0 0 70%;
-  /*... */
-}
+
+
