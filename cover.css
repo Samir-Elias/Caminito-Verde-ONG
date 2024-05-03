@@ -152,7 +152,9 @@ body {
   }
 }
 @media (max-width: 767.98px) {
-
+.text-center{
+  align-items:center;
+}
   
   .logo {
     margin-left: 0;
