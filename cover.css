@@ -143,6 +143,7 @@ body {
   main {
     flex-direction: column;
     flex-wrap: wrap;
+    align-items: center;
   }
 
  .logo-container {
