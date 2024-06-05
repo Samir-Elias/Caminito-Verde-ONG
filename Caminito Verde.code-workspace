@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/bootstrap-4.0.0/docs/4.0/about"
+		},
+		{
+			"path": "../../Downloads/bootstrap-4.0.0/docs/4.0/components"
+		},
+		{
+			"path": "../../Downloads/bootstrap-4.0.0/docs/4.0/content"
+		},
+		{
+			"path": "../../Downloads/bootstrap-4.0.0/assets"
+		},
+		{
+			"path": "../../Downloads/bootstrap-4.0.0/_includes"
+		},
+		{
+			"path": "../../Downloads/bootstrap-4.0.0/_layouts"
+		},
+		{
+			"path": "../../Downloads/bootstrap-4.0.0/_plugins"
+		},
+		{
+			"path": "../../Downloads/bootstrap-4.0.0/.vscode"
+		},
+		{
+			"path": "../../Downloads/bootstrap-4.0.0/.github"
+		},
+		{
+			"path": "../../Downloads/bootstrap-4.0.0/build"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Caminito Verde"
+	}
+}
