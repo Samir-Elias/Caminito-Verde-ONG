@@ -32,6 +32,9 @@
 		},
 		{
 			"path": "../../Downloads/bootstrap-4.0.0/build"
+		},
+		{
+			"path": "../Programación/bootstrap-examples/assets"
 		}
 	],
 	"settings": {
